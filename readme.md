@@ -1,4 +1,4 @@
-# Employee Attrition - Job Change of Data Scientists
+# Employee Attrition using Deep Learning
 
 ## Problem Statement
 A company that is active in Big Data and Data Science wants to hire data scientists among people who successfully pass some courses conducted by the company. Many people sign up for their training. The company wants to know which of these candidates want to work for the company after training or looking for new employment because it helps to reduce the cost and time as well as the quality of training or planning the courses and categorization of candidates. Information related to demographics, education and experience is provided by candidates during signup and enrollment.
